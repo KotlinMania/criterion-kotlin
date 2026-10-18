@@ -35,3 +35,4 @@ criterion-commonMain = [
   "kotlinx-datetime",
   "collections-immutable",
 ]
+criterion-commonTest = []
